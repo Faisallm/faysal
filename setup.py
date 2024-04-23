@@ -11,7 +11,7 @@ setuptools.setup(
     description = "Faisal",
     long_description = "Faisal",
     long_description_content_type = "text/markdown",
-    url = "package URL",
+    url = "https://github.com/Faisallm/faysal",
     project_urls = {
         "Bug Tracker": "package issues URL",
     },
